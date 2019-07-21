@@ -1,0 +1,17 @@
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb
+C:\GitHub\repositories\Infrastructure\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+C:\GitHub\repositories\Infrastructure\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+C:\GitHub\repositories\Infrastructure\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
+C:\GitHub\repositories\Infrastructure\Interfaces\obj\Debug\netstandard2.0\Interfaces.csprojAssemblyReference.cache
+C:\GitHub\repositories\Infrastructure\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\GitHub\repositories\Infrastructure\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+C:\GitHub\repositories\Infrastructure\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+C:\GitHub\repositories\Infrastructure\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+C:\GitHub\repositories\Infrastructure\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb

@@ -1,0 +1,214 @@
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\DataModel.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\DataModel.pdb
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\obj\Debug\DataModel.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\obj\Debug\DataModel.pdb
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\Utilities.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\Utilities.pdb
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\netstandard.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.AppContext.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Collections.Concurrent.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Collections.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Collections.NonGeneric.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Collections.Specialized.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.ComponentModel.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.ComponentModel.Primitives.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Console.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Data.Common.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Diagnostics.Contracts.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Diagnostics.Debug.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Diagnostics.Process.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Diagnostics.Tools.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Diagnostics.Tracing.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Drawing.Primitives.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Dynamic.Runtime.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Globalization.Calendars.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Globalization.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Globalization.Extensions.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.IO.Compression.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.IO.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.IO.FileSystem.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.IO.IsolatedStorage.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.IO.Pipes.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Linq.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Linq.Expressions.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Linq.Parallel.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Linq.Queryable.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Net.Http.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Net.NameResolution.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Net.NetworkInformation.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Net.Ping.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Net.Primitives.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Net.Requests.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Net.Security.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Net.Sockets.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Net.WebSockets.Client.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Net.WebSockets.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.ObjectModel.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Reflection.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Reflection.Extensions.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Reflection.Primitives.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Resources.Reader.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Resources.ResourceManager.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Resources.Writer.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Runtime.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Runtime.Extensions.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Runtime.Handles.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Runtime.InteropServices.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Runtime.Numerics.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Security.Claims.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Security.Principal.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Security.SecureString.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Text.Encoding.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Text.RegularExpressions.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Threading.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Threading.Overlapped.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Threading.Tasks.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Threading.Thread.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Threading.ThreadPool.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Threading.Timer.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.ValueTuple.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Xml.ReaderWriter.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Xml.XDocument.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Xml.XmlDocument.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Xml.XmlSerializer.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Xml.XPath.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\Interfaces.dll
+C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\DataModel\bin\Debug\Interfaces.pdb
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\DataModel.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\DataModel.pdb
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\netstandard.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.AppContext.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Collections.Concurrent.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Collections.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Collections.NonGeneric.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Collections.Specialized.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.ComponentModel.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.ComponentModel.Primitives.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Console.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Data.Common.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Diagnostics.Contracts.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Diagnostics.Debug.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Diagnostics.Process.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Diagnostics.Tools.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Diagnostics.Tracing.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Drawing.Primitives.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Dynamic.Runtime.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Globalization.Calendars.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Globalization.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Globalization.Extensions.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.IO.Compression.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.IO.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.IO.FileSystem.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.IO.IsolatedStorage.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.IO.Pipes.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Linq.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Linq.Expressions.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Linq.Parallel.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Linq.Queryable.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Net.Http.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Net.NameResolution.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Net.NetworkInformation.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Net.Ping.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Net.Primitives.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Net.Requests.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Net.Security.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Net.Sockets.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Net.WebSockets.Client.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Net.WebSockets.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.ObjectModel.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Reflection.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Reflection.Extensions.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Reflection.Primitives.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Resources.Reader.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Resources.ResourceManager.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Resources.Writer.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Runtime.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Runtime.Extensions.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Runtime.Handles.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Runtime.InteropServices.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Runtime.Numerics.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Security.Claims.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Security.Principal.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Security.SecureString.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Text.Encoding.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Text.RegularExpressions.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Threading.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Threading.Overlapped.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Threading.Tasks.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Threading.Thread.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Threading.ThreadPool.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Threading.Timer.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.ValueTuple.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Xml.ReaderWriter.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Xml.XDocument.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Xml.XmlDocument.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Xml.XmlSerializer.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Xml.XPath.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\Interfaces.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\Utilities.dll
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\Interfaces.pdb
+C:\GitHub\repositories\Infrastructure\DataModel\bin\Debug\Utilities.pdb
+C:\GitHub\repositories\Infrastructure\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\GitHub\repositories\Infrastructure\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\GitHub\repositories\Infrastructure\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\GitHub\repositories\Infrastructure\DataModel\obj\Debug\DataModel.dll
+C:\GitHub\repositories\Infrastructure\DataModel\obj\Debug\DataModel.pdb
