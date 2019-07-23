@@ -15,6 +15,7 @@ using System.Windows.Shapes;
 using DataModel;
 //using Utilities;
 using Interfaces;
+using Microsoft.Win32;
 
 namespace WpfApp1
 {
@@ -36,11 +37,18 @@ namespace WpfApp1
                 TxtFile = "C:\\Users\\bfall\\Desktop\\MySession\\MyFile_Iwanna_import.txt"
             };
 
+            //Session_2 createdSession = new Session_2("C:\\Users\\bfall\\Desktop\\MySession")
+            //{
+            //    Temperature = 37,
+            //    Surface = 25,
+            //    TxtFile = "C:\\Users\\bfall\\Desktop\\MySession\\MyFile_Iwanna_import.txt"
+            //};
+
             InitializeUI(createdSession as IPAttributes);
         }
 
 
-         double d1 = 100;
+         double d1 = 20;
          double d2 = 45;
          double d3 = 0;
          double d4 = 0;
@@ -66,7 +74,7 @@ namespace WpfApp1
                         TextBox textBox = new TextBox();
                         textBox.HorizontalAlignment = HorizontalAlignment.Left;
                         textBox.VerticalAlignment = VerticalAlignment.Top;
-                        textBox.Margin = new Thickness(d1 + 150, d2, d3, d4);
+                        textBox.Margin = new Thickness(d1 + 100, d2, d3, d4);
 
                         string displayValue = ""; 
                         PPA.GetValueAsStringForDisplay(iPAttributes, ref displayValue);
@@ -74,10 +82,20 @@ namespace WpfApp1
 
                         Grid1.Children.Add(textBox);
 
-                        d2 += 150;
+                        d2 += 50;
                         break;
 
                     case PFileAttribute PFA:
+                        
+                        MyFileBrowserControl myFileBrowserControl = new MyFileBrowserControl(PFA, iPAttributes);
+
+                        myFileBrowserControl.HorizontalAlignment = HorizontalAlignment.Left;
+                        myFileBrowserControl.VerticalAlignment = VerticalAlignment.Top;
+                        myFileBrowserControl.Margin = new Thickness(d1, d2, d3, d4);
+
+                        Grid1.Children.Add(myFileBrowserControl);
+
+                        d2 += 50;
                         break;
 
   
@@ -86,7 +104,14 @@ namespace WpfApp1
 
                 }
             }
+
             this.UpdateLayout();
+        }
+
+        private void Button_Browse_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog fileDialog = new OpenFileDialog();
+            fileDialog.ShowDialog();
         }
     }
 }

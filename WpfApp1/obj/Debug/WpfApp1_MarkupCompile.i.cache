@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\WpfApp1\obj\Debug\
+C:\GitHub\repositories\Infrastructure\WpfApp1\obj\Debug\
 WpfApp1
 none
 false
 DEBUG;TRACE
-C:\ANSYSDev\Workspaces\Ericsson Repositories\EVDE\Infrastructure\WpfApp1\App.xaml
-11151548125
+C:\GitHub\repositories\Infrastructure\WpfApp1\App.xaml
+2-81305382
 
-9-95500167
-121617299765
-MainWindow.xaml;
+101626684787
+121-1052536969
+MainWindow.xaml;MyFileBrowserControl.xaml;
 
-True
+False
 

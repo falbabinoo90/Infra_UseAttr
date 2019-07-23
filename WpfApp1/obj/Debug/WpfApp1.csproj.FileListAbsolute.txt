@@ -236,3 +236,5 @@ C:\GitHub\repositories\Infrastructure\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompi
 C:\GitHub\repositories\Infrastructure\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
 C:\GitHub\repositories\Infrastructure\WpfApp1\obj\Debug\WpfApp1.exe
 C:\GitHub\repositories\Infrastructure\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\GitHub\repositories\Infrastructure\WpfApp1\obj\Debug\MyFileBrowserControl.g.cs
+C:\GitHub\repositories\Infrastructure\WpfApp1\obj\Debug\MyFileBrowserControl.baml

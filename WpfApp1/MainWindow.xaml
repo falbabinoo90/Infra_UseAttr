@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="button" Content="Create New Session" HorizontalAlignment="Left" Margin="283,84,0,0" VerticalAlignment="Top" Width="143" Click="Button_Click"/>
-        <Grid x:Name="Grid1" HorizontalAlignment="Left" Height="234" Margin="57,129,0,0" VerticalAlignment="Top" Width="703"/>
+        <Grid x:Name="Grid1" HorizontalAlignment="Left" Height="234" Margin="27,129,0,0" VerticalAlignment="Top" Width="744"/>
 
     </Grid>
 </Window>

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataModel.PAttribute" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAIAAJEgQFgAAAAAIAAAIAAIAgIQAAAAAAAAA=</HashCode>
+      <FileName>Attributes\PAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataModel.PAttributesExt" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\PAttributesExt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataModel.PFileAttribute" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAIEEEAAAAAAAAAABAAAAQAIAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\PFileAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataModel.PParameterAttribute" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCBAAAAAAAMEAACAAIAgAAAAAAAAAAAAEBAEAEIAAA=</HashCode>
+      <FileName>Attributes\PParameterAttribute.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataModel.DataManagement" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAJAAAAAAAAAAAA=</HashCode>
+      <FileName>DataManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataModel.FeatureBase" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAgAAAAgAAAAAAAAEAoBAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>FeatureBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataModel.MagnitudeExtension" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAFAAAAAAAAAAAAAAIAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Magnitude.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataModel.NumericValue" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAQAAAACAABAAAAAAABAAAACAAAoAAAEACIA=</HashCode>
+      <FileName>Magnitude.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataModel.Session" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAQAAAAAAgAAAAAAAgAAABAAAQAAAAAAAA=</HashCode>
+      <FileName>Session.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataModel.Session_2" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAECAgQAAAAAAAAAAAEEAgAAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>Session.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DataModel.INumericField" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEEAACAAAAgAAAAAAAAAAAAABAEAEAAAA=</HashCode>
+      <FileName>Attributes\INumericField.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DataModel.IPAttributes" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAgAAAAAAAAAAABAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IPAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DataModel.AttributeEditBehavior" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Attributes\PAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DataModel.AttributeEditContext" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAAAEAAAA=</HashCode>
+      <FileName>Attributes\PAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DataModel.AttributePreSelectionBehavior" Collapsed="true">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAQAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Attributes\PAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DataModel.PAttributeRole" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAACAAAAAAAAAIAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Attributes\PAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DataModel.Magnitude" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAEAABAAAAAAAQAEEAACQEEAAA=</HashCode>
+      <FileName>Magnitude.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
